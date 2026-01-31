@@ -1,6 +1,4 @@
 name = "devbradley-cc"
 compatibility_date = "2026-01-30"
 
-
-[site]
-bucket = "./devbrad"
+assets = { directory = "./devbrad" }
