@@ -1,6 +1,5 @@
-name = "devbradley.cc"
-main = ""
-compatibility_date = "2026-30-1"
+name = "devbradley-cc"
+compatibility_date = "2026-01-30"
 
 [site]
-bucket = "/home/deck/Desktop/devbrad1/devbrad/"
+bucket = "./devbrad"
